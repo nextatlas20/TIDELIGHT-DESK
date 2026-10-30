@@ -1,0 +1,6 @@
+transmission_id,channel_id,minute,status,operator,decision,reason,selected
+TX-101,CH-ALP,8,CLEAR,Mira,AIR,ON_TIME,YES
+TX-103,CH-BAY,19,HOLD,Oren,OFF-AIR,HOLD,NO
+TX-104,CH-BAY,20,CLEAR,Peta,AIR,ON_TIME,YES
+TX-106,CH-CED,7,CLEAR,Rhea,AIR,ON_TIME,NO
+TX-105,CH-CED,11,CLEAR,Quin,OFF-AIR,LATE,YES
