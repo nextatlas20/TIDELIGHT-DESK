@@ -1,0 +1,9 @@
+transmission_id	channel_id	minute	status	operator
+TX-101	CH-ALP	8	CLEAR	Mira
+TX-102	CH-ALP	18	CLEAR	Nori
+TX-103	CH-BAY	19	HOLD	Oren
+TX-104	CH-BAY	20	CLEAR	Peta
+TX-105	CH-CED	11	CLEAR	Quin
+TX-106	CH-CED	7	CLEAR	Rhea
+TX-102	CH-BAY	4	CLEAR	Sora
+TX-107	CH-XXX	5	CLEAR	Tao
